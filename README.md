@@ -3,7 +3,7 @@ In the project directory, you can run:
 
 ### Install npm and node
 
-### Go to open "https://openweathermap.org/"
+### Go to "https://openweathermap.org/"
 1. Go to "https://openweathermap.org/"
 2. Create an account
 3. Grab the API key from the APIs section
